@@ -667,7 +667,7 @@ background-color: var(--color-accent);
 display: flex;
 flex-wrap: wrap;
 margin-right: -30px;
-margin-bottom: -30px
+margin-bottom: -30px;
 }
 
 .list-imagine .item {
@@ -735,7 +735,7 @@ letter-spacing: 0.03em;
 color: var(--secondary-text-color);
 }
 
-/* ---------------------------Модальное окно------------------------------------------ */
+/* ---------------------------MODAL------------------------------------------ */
 
 .backdrop {
 width: 100%;
